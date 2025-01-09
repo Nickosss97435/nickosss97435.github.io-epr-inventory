@@ -1,0 +1,43 @@
+ _   _    _         _       
+| \ | |  (_)       | | _    
+|  \| |   _    __  | |/ /   ___  
+| . ` |  | |  / _| |   /   / _ \ 
+| |\  |  | | | (_  | | \  | |_| |
+|_| \_|  |_|  \__| |_|\_\  \___/ 
+
+_______________________________________________________________________________
+
+Le dossier humans.txt explique l’équipe, la technologie,
+et les ressources graphiques derrière ce site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | Nicolas QUÉRAT
+
+Nicolas QUÉRAT
+Hand crafted design & web development
+
+Outils de Design:
+Figma
+Photoshop
+Illustrator
+
+github.com/
+
+_______________________________________________________________________________
+
+TECHNOLOGY |
+
+React
+Vite
+Three.js
+aos
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | 
+
+Gotham Regular
+Ubuntu Regular
+Hiragino Kaku Gothic W8
